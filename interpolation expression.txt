@@ -1,0 +1,4 @@
+let p = 80
+let q = 10
+let r = 70
+print("If p is \(p), q is \(q) and q is \(r), then p+q-r equals \(p+q-r)")
